@@ -60,3 +60,4 @@ The Data Science salary data (Salary_Data.csv) that we will use for the analysis
 ## Exploratory Data Analysis (EDA)
 
 ### Creating boxplot to see outliers in data.
+![output](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/22ffec53-e44b-41a2-9d5e-13c3e7c3f114)
