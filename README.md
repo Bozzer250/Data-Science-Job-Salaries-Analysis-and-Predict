@@ -12,3 +12,23 @@ For any queries regarding about this project contact me.
 The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
 
 - Link [Download here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download)
+
+# Data set
+<img width="1247" alt="dataset" src="https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/90a420f8-bc40-4555-86e2-ea866ff72ca0">
+
+## Observation:
+
+• The dataset consists of 12 columns and 607 rows.
+
+- Unnamed: 0
+- work_year
+- experience_level
+- employment_type
+- job_title
+- salary
+- salary_currency
+- salaryinusd
+- employee_residence
+- remote_ratio
+- company_location
+- company_size
