@@ -93,5 +93,26 @@ The Data Science salary data (Salary_Data.csv) that we will use for the analysis
 
 ![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/0933f37e-357a-4b57-a32c-691f79917129)
 
+### Observations:
+
+- From 2020 to 2022 there will be an increase in the rate of remote work by Data Science workers.
+- The chart shows the existence of a new culture that is most favored by Data Science workers, namely remote / work from home.
+  
+## Analysis 4: Does salary of employees (salary_in_usd) depends on the exprience level?
+![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/d666e747-1021-412f-9948-144537f3b795)
+
+### Observation :
+
+- Experience level highly effects the amount of salary.
+### Analysis 5: How is the distribution of Data Science worker locations?
+![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/61489e27-a5bd-498a-9fa8-bac4e4c2160d)
+### Observation:
+
+- Workers mostly are from american (US) companies.
+
+🙂
+
+
+
 
 
