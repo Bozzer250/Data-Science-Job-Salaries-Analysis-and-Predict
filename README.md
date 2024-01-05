@@ -61,3 +61,37 @@ The Data Science salary data (Salary_Data.csv) that we will use for the analysis
 
 ### Creating boxplot to see outliers in data.
 ![output](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/22ffec53-e44b-41a2-9d5e-13c3e7c3f114)
+
+### Obervations:
+
+- There is no outlier in work_year column.
+- There are some outliers in the salary and salary_in_usd columns.
+## Feature Correlation
+![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/6aae6927-810a-4c1e-a08a-23dc3ef9a97a)
+
+### Observation :
+
+- experience_level and salary_in_usd have a high correlation.
+## Analysis 1: What is job with the highest salary in Data Science?
+
+![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/d2ef6a54-b855-4661-b6ab-485a27828745)
+
+### Observations :
+
+- The chart shows that the highest salary by Data Analytics Lead is > 400,000 USD and the lowest by 3D Computer Vision Researcher is < 3,000 USD.
+- The average salary of workers in the Data Science field is 100,000 USD.
+  
+## Analysis 2: What are the top 10 data science jobs in 2022?
+![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/0910ccba-5451-449b-add2-ee389c4a2f70)
+
+### Observation:
+
+- In 2022, the top 10 popular data science jobs are shown on the chart and the most popular is Data Engineer.
+- Data Scientist, Data Engineer, Data Analyst are the top 3 most popular jobs based on the data.
+  
+## Analysis 3: How does the remote-ratio vary from year 2020 -2022?
+
+![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/0933f37e-357a-4b57-a32c-691f79917129)
+
+
+
