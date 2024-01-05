@@ -32,3 +32,31 @@ The Data Science salary data (Salary_Data.csv) that we will use for the analysis
 - remote_ratio
 - company_location
 - company_size
+
+- Column `Unnamed`: 0 needs to be removed, as it is unecessary columns.
+
+- The names of each column are lowercase.
+
+- The values of the `experience_level`, `employment_type`, `remote_ratio`, and `company_size` columns need to be redefined.
+
+- `work_year`, `salary`, `salary_in_usd`, and `remote_ratio` columns are numeric.
+
+# Data Cleansing
+- Removed unwanted columns: 'Unnamed: 0'.
+
+- Dataframe has no missing values.
+
+- Drop 42 duplicate rows found.
+
+- Renaming the column value
+
+  - experience_level : EN = Entry-level, MI = Mid-level, SE = Senior-level, EX = Expert-level
+  - employment_type : PT = Part-time, CT = Contract, FT = Full-time, FL = Freelance
+  - remote_ratio.replace : 0 = Onsite, 50 = Hybrid, 100 = Remote
+  - company_size.replace : S = Small, M = Medium, L = Large
+    
+- After renaming the column value, the dtype of the remote_ratio column changes to object.
+
+## Exploratory Data Analysis (EDA)
+
+### Creating boxplot to see outliers in data.
