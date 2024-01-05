@@ -1,1 +1,1 @@
-# Data-Science-Job-Salaries-Analysis-and-Predict
+# Data Science Job Salaries Analysis and Prediction.
