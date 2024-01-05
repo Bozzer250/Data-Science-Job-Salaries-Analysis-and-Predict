@@ -11,4 +11,4 @@ For any queries regarding about this project contact me.
 # Acquisition of data
 The Data Science salary data (Salary_Data.csv) that we will use for the analysis is obtained from Kaggle.
 
-- Link [Download here]([https://www.linkedin.com/in/naloys/](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download)https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download)
+- Link [Download here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries?resource=download)
