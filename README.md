@@ -71,7 +71,7 @@ The Data Science salary data (Salary_Data.csv) that we will use for the analysis
 
 ### Observation :
 
-- experience_level and salary_in_usd have a high correlation.
+- `experience_level` and `salary_in_usd` have a high correlation.
 ## Analysis 1: What is job with the highest salary in Data Science?
 
 ![image](https://github.com/Bozzer250/Data-Science-Job-Salaries-Analysis-and-Predict/assets/122544599/d2ef6a54-b855-4661-b6ab-485a27828745)
